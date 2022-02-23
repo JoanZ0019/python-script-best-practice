@@ -5,6 +5,7 @@
 import sys
 
 
+
 def get_smallest_prime_factor(n):
     """
     Returns the smallest integer that is a factor of `n`.
